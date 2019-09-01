@@ -15,7 +15,6 @@ public class projectOne {
 
         System.out.println("You favorite color is " + answer); 
 
-        java.lang.System.exit();
         
         
     
