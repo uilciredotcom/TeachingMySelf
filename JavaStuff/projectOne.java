@@ -13,12 +13,7 @@ public class projectOne {
         System.out.println("What is your favorite color?");
         String answer = input.next();
 
-        System.out.println("You favorite color is " + answer); 
-
-        
-        
-    
-            
+        System.out.println("You favorite color is " + answer);
         
     
     }
